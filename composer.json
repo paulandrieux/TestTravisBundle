@@ -11,14 +11,7 @@
         }
     ],
     "require": {
-        "symfony/http-foundation": ">=2.2,<2.3-dev",
-        "symfony/form": ">=2.2,<2.3-dev",
-        "symfony/validator": ">=2.2,<2.3-dev",
-        "symfony/security-bundle": ">=2.2,<2.3-dev",
-        "symfony/routing": ">=2.2,<2.3-dev",
-        "symfony/config": ">=2.2,<2.3-dev",
-        "symfony/console": ">=2.2,<2.3-dev",
-        "symfony/twig-bridge": ">=2.2,<2.3-dev",
+        "symfony/symfony": "2.3.*@dev",
         "twig/twig": ">=1.12,<2.0-dev",
         "doctrine/common": ">=2.2,<3.0"
     },
